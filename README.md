@@ -35,5 +35,5 @@ Tensorflow 2.0 [video](https://study.163.com/course/introduction/1209092816.htm)
 6.数学
 
 
-7.计算机专业基础
-数据结构与算法(python语言)[video](https://www.wanmen.org/courses/5abdf4dc44c3793c464d062d)
+7.计算机专业基础  
+* 数据结构与算法(python语言)[video](https://www.wanmen.org/courses/5abdf4dc44c3793c464d062d)
