@@ -1,5 +1,5 @@
 # study_road
-自己学习的课程的相关代码，方便管理
+自己学习的课程的相关代码，方便管理  
 预计组织结构：
 
 1. 机器学习：
@@ -30,6 +30,10 @@
 这门课有配套的网站习题，感觉很好
 
 5.框架课
+Tensorflow 2.0 [video](https://study.163.com/course/introduction/1209092816.htm) [note](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
 
 6.数学
+
+
 7.计算机专业基础
+数据结构与算法(python语言)[video](https://www.wanmen.org/courses/5abdf4dc44c3793c464d062d)
