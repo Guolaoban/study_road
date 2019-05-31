@@ -23,11 +23,9 @@
 4. 编程语言(python/C++/C) 
 * 《C++ Primer Plus》
 * 《C++ Primer》
-* 北大：程序结构与算法
-[一](http://www.icourse163.org/course/PKU-1001553023)
-[二](http://www.icourse163.org/learn/PKU-1001894005?tid=1205957211)
-[三](https://www.icourse163.org/course/PKU-1002029030)  
-这门课有配套的网站习题，感觉很好
+* C++程序设计2019春 清华大学郑莉教授  Deadline:2019/06/10 23:30:00
+[基础](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043_1x+2019_T1/about)
+[进阶](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043_2x+2019_T1/about)
 
 5.框架课
 Tensorflow 2.0 [video](https://study.163.com/course/introduction/1209092816.htm) [note](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
