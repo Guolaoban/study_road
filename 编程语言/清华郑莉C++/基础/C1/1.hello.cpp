@@ -1,5 +1,6 @@
 #include<cstdio>
 int main(){
-	printf("Hello!\n");
+	short i = 2 ;
+	printf("%d", sizeof(short));
 	return 0;
 } 
